@@ -1,1 +1,2 @@
 my first git command
+added my second line is it visible
